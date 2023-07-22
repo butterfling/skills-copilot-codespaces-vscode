@@ -1,0 +1,11 @@
+{
+    
+    "name": "HexaDCP!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
